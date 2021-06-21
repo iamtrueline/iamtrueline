@@ -2,6 +2,6 @@
 - 🤪 I'm interested in working less and earning more.
 - 🕡 I work as a full-stack developer for a small company.
 - 🎨 I work as a freelance illustrator, infant and youth instructor.
-- 🌱 I develop a one-man game as a hobby.
+- 🌱 I'm a one-man game developer.
 - 💟 I collect minion goods. (Yes, those little yellow balls that love bananas!)
 - 📫 How to contact: iamtrueline@gmail.com
