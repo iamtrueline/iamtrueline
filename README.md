@@ -5,3 +5,5 @@
 - 🌱 I'm a one-man game developer.
 - 💟 I collect minion goods. (Yes, those little yellow balls that love bananas!)
 - 📫 How to contact: iamtrueline@gmail.com
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iamtrueline)](https://solved.ac/iamtrueline/)
