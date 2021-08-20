@@ -4,7 +4,6 @@
 
 </div>
 
-- 🎁 I'm Trueline. :D
 - 🤪 I'm interested in working less and earning more.
 - 🕡 I work as a full-stack developer for a small company.
 - 🎨 I work as a freelance illustrator, infant and youth instructor.
