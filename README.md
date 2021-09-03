@@ -5,7 +5,7 @@
 </div>
 <a target="_blank" href="https://solved.ac/profile/iamtrueline"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iamtrueline"></a>
 
-- 🤪 Work Less Earn More
+- 🎯 Work Less Earn More
 - 🕡 I work as a full-stack developer for a small company,
 - 🎨 And a freelance illustrator, infant and youth instructor.
 - 🌱 I'm a one-man game developer.
