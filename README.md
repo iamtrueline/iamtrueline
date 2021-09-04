@@ -8,7 +8,7 @@
 - 🎯 Work Less Earn More
 - 🕡 I work as a full-stack developer for a small company,
 - 🎨 And a freelance illustrator, infant and youth instructor.
-- 🌱 I'm a one-man game developer.
+- 🌱 I'm a novice game developer.
 - 💟 I collect minion goods. (Yes, those little yellow balls that love bananas!)
 - 📫 How to contact: iamtrueline@gmail.com
 
