@@ -5,9 +5,8 @@
 </div>
 <a target="_blank" href="https://solved.ac/profile/iamtrueline"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iamtrueline"></a>
 
-- 🎯 Work Less Earn More
-- 🕡 I work as a full-stack developer for a small company,
-- 🎨 And a freelance illustrator, infant and youth instructor.
+- 🎯 Wrap up each day well.
+- 🕡 I worked as a full-stack developer for a small company,
 - 🌱 I'm a novice game developer.
 - 💟 I collect minion goods. (Yes, those little yellow balls that love bananas!)
 - 📫 How to contact: iamtrueline@gmail.com
