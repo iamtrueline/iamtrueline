@@ -5,7 +5,7 @@
 </div>
 <a target="_blank" href="https://solved.ac/profile/iamtrueline"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iamtrueline"></a>
 
-- 🎯 No stain NO pain.
+- 🎯 No Stain No Pain.
 - 🕡 I worked as a full-stack developer for a small company,
 - 🌱 I'm a novice game developer.
 - 💟 I collect minion goods. (Yes, those little yellow balls that love bananas!)
