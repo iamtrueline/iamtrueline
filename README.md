@@ -8,7 +8,7 @@
 - 🎯 No Stain No Pain.
 - 🕡 I worked as a full-stack developer for a small company,
 - 🌱 I'm a novice game developer.
-- 💟 I collect minion goods. (Yes, those little yellow balls that love bananas!)
+- 💟 I collect minion goods. 👀
 - 📫 How to contact: iamtrueline@gmail.com
 
 <p align="center">
