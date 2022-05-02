@@ -6,9 +6,7 @@
 <a target="_blank" href="https://solved.ac/profile/iamtrueline"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iamtrueline"></a>
 
 - 🎯 No Stain No Pain.
-- 🕡 I worked as a full-stack developer for a small company,
-- 🌱 I'm a novice game developer.
-- 💟 I collect minion goods. 👀
+- 🌱 I'm an Elasticsearch engineer/novice game developer/minion goods collector.
 - 📫 How to contact: iamtrueline@gmail.com
 - 📅 [My schedule](https://incongruous-sawfish-f28.notion.site/c54a2e53dea74534bddf6e88e46c10f9?v=eb9e7851da2f45b79cedcb0d4c2ac79b)
 
