@@ -16,3 +16,4 @@
 <a target="_blank" href="https://solved.ac/profile/iamtrueline"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iamtrueline"></a>
 
   <a target="_blank" href="https://certified.elastic.co/557b9cc6-fee8-4b1e-a25a-b52c455d21bf#gs.7zaawk"><img align='left' src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55442892"/></a>
+  <a target="_blank" href="https://certified.elastic.co/e8fc7e94-9e09-4470-bfaa-d8438d44aca6#gs.3xfolb"><img align='left' src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78515296"/></a>
